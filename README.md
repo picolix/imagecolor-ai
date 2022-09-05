@@ -1,4 +1,4 @@
-# tfcolor2
+# tfcolor2  - GCP AutoML Vision Edge
 
 You can get the top 3 image colors of the image.  
 Inference in python,tensorflow using image color trained model saved_model.pb.  
